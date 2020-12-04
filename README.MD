@@ -1,4 +1,5 @@
 # You Don't Need JavaScript
+[![Join the community on Spectrum](https://withspectrum.github.io/badge/badge.svg)](https://spectrum.chat/you-dont-need/javascript)
 
 Please note these demos should be considered as CSS "Proofs of Concepts". They may have serious issues from accessibility point of view (keyboard navigation, speech synthesis, etc.), or progressive enhancement/degradation/etc.
 
@@ -27,7 +28,6 @@ Please note these demos should be considered as CSS "Proofs of Concepts". They m
 1. [Flip on click](#Flip)
 1. [Floating label on Textfield](#Floating)
 1. [Font-Face (Latin)](#Font)
-1. [Games](#Games)
 1. [Info on hover/ Popover](#Info)
 1. [Image Gallery](#Image)
 1. [Menu](#Menu)
@@ -63,6 +63,7 @@ Please note these demos should be considered as CSS "Proofs of Concepts". They m
 
 [<img src="images/slideshow2.png" height="230" title="Demo 1">](http://codepen.io/SitePoint/pen/MyPVdK)
 [<img src="images/slideshow.png" height="230" title="Demo 2">](https://codepen.io/cavico/pen/yOjwya)
+[<img src="images/slideshow3.png" height="230" title="Demo 3">](https://codepen.io/FabianK/pen/zJLLrR)
 
 **[⬆ back to top](#quick-links)**
 
@@ -100,16 +101,6 @@ Please note these demos should be considered as CSS "Proofs of Concepts". They m
 ## <a id="Font"></a>Font-Face (Latin)
 
 [<img src="images/sansfont.png" height="230" title="Demo">](https://yusugomori.com/projects/css-sans/fonts)
-
-**[⬆ back to top](#quick-links)**
-
-***
-&nbsp;
-
-## <a id="Games"></a>Games
-
-[<img src="images/game.png" height="230" title="Game 1">](https://codepen.io/i0z/pen/mFLCw)
-[<img src="images/sudoku.png" height="230" title="Game 2">](https://codepen.io/TabAtkins/pen/JYZgRo)
 
 **[⬆ back to top](#quick-links)**
 
